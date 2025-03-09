@@ -3,7 +3,11 @@
 <p><b>"Descubra a sofisticação em cada detalhe ✨. Este site oferece uma experiência exclusiva para quem busca roupas de luxo, com uma interface elegante e recursos premium. O objetivo é proporcionar uma plataforma sofisticada e intuitiva, com navegação fluida, design responsivo e foco no conforto do usuário, garantindo uma jornada de compra impecável. 👗🛍️💎"</b></p>
 ## 👉 Visualizar Site: <a href='https://anipat-tan.vercel.app/'>Ver Site</a>
 
-### » Tecnologias utilizadas: HTML, CSS, JS.
+### » Tecnologias utilizadas: HTML, CSS, JS, SCSS, LESS.
+ 
+Less
+9.0%
+.
 
 ##
 
