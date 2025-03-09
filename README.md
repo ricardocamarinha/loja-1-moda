@@ -13,7 +13,7 @@
 
 <div align='center'>
   <a href="#" target="_blank">
-    <img src='./images/capa.jpg'/>
+    <img src='./images/capa.png'/>
   </a>
 </div>
 
