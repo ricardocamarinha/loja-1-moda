@@ -4,10 +4,6 @@
 ## 👉 Visualizar Site: <a href='https://anipat-tan.vercel.app/'>Ver Site</a>
 
 ### » Tecnologias utilizadas: HTML, CSS, JS, SCSS, LESS.
- 
-Less
-9.0%
-.
 
 ##
 
